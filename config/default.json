@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://user2020:potato@firstcluster.rds4f.mongodb.net/FlashCardProject?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
